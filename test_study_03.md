@@ -26,3 +26,11 @@
 | 작음 | 많아 | 어려워 | 높음 |
 
 # 5과목 중점적으로 하기!!
+
+| Feature | RIP | OSPF |
+| --- | --- | --- |
+| Algorithm | Distance vector | Link state |
+| Metric | Hop | bandwidth, Delay |
+| Maximum no of hops | 15-16 | size |
+| complexity | simple | relatively complex |
+

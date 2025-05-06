@@ -34,3 +34,7 @@
 | Maximum no of hops | 15-16 | size |
 | complexity | simple | relatively complex |
 
+추상화 방법
+
+- 제어 / 기능 / 데이터 추상화
+- 구조는 아니다!!

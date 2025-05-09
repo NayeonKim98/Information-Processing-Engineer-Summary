@@ -19,3 +19,6 @@
 - SYN Flooding : 속여 이용 못하게
 - Land : IP 주소값 똑같이 만들어
 
+Forward Chaining : 기침 -> 폐렴 가능성
+Backward Chaining : 폐렴 확인하기 위해 증상 역추적
+
